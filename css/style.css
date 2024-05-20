@@ -235,3 +235,6 @@ li a {
 .columns__right .right__description {
   margin: 8px 0;
 }
+.columns__right .right__description a {
+  color: #203472;
+}

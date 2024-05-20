@@ -204,6 +204,9 @@ li {
 
          &__description {
             margin: 8px 0;
+				a{
+					color: $color_blue;
+				}
          }
       }
    }
