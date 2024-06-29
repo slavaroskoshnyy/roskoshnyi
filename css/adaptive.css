@@ -19,6 +19,7 @@
   }
   h4 {
     color: #ffffff;
+    font-weight: 500;
   }
   li p {
     display: none;
@@ -46,6 +47,9 @@
   }
   .columns__right {
     padding-bottom: 20px;
+    color: #ffffff;
+  }
+  .columns__right .right__description a {
     color: #ffffff;
   }
   .columns__right a {

@@ -220,7 +220,7 @@ li a {
   padding-left: 18px;
 }
 .columns .priority {
-  padding-left: 20px;
+  padding: 0 20px;
 }
 .columns__right {
   padding: 0 20px;

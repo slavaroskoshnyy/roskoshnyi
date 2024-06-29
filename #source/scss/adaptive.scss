@@ -29,6 +29,7 @@
 
    h4 {
       color: $color_white;
+		font-weight: 500;
    }
 
    li {
@@ -73,6 +74,12 @@
          padding-bottom: 20px;
 
          color: $color_white;
+
+         .right__description {
+            a {
+               color: $color_white;
+            }
+         }
 
          a {
             color: $color_white;
