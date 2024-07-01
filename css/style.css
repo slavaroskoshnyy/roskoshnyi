@@ -186,7 +186,7 @@ li a {
   overflow: hidden;
 }
 .columns__left .info {
-  padding: 0 10px 0 20px;
+  padding: 0 13px 0 20px;
 }
 .columns__left .info .github a {
   font-size: 20px;
@@ -220,7 +220,7 @@ li a {
   padding-left: 18px;
 }
 .columns .priority {
-  padding: 0 20px;
+  padding: 0 13px 0 20px;
 }
 .columns__right {
   padding: 0 20px;
