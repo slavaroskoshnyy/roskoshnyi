@@ -2,6 +2,7 @@
 @import "_vars.scss";
 
 body {
+
    a {
       text-decoration: underline;
    }
@@ -203,6 +204,10 @@ li {
          }
 
          &__description {
+            text-align: justify;
+            text-indent: 45px;
+            // word-break: break-all;
+            // overflow-wrap: break-word;
             margin: 8px 0;
 
             a {

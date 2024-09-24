@@ -233,6 +233,8 @@ li a {
   margin-left: 5px;
 }
 .columns__right .right__description {
+  text-align: justify;
+  text-indent: 45px;
   margin: 8px 0;
 }
 .columns__right .right__description a {
