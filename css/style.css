@@ -77,6 +77,12 @@ h1, h2, h3, h4, h5, h6 {
 body a {
   text-decoration: underline;
 }
+body p {
+  padding-bottom: 7px;
+}
+body p:last-child {
+  padding-bottom: 0px;
+}
 body p,
 body li {
   -webkit-hyphens: auto;

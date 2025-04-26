@@ -7,6 +7,17 @@ body {
       text-decoration: underline;
    }
 
+   p {
+      padding-bottom: 7px;
+
+      &:last-child {
+         padding-bottom: 0px;
+      }
+
+   }
+
+
+
    p,
    li {
       hyphens: auto;
