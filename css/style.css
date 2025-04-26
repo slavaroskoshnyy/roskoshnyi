@@ -78,7 +78,7 @@ body a {
   text-decoration: underline;
 }
 body p {
-  padding-bottom: 7px;
+  padding-bottom: 8px;
 }
 body p:last-child {
   padding-bottom: 0px;
